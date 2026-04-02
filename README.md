@@ -12,3 +12,14 @@ This project analyzes sales data using Python.
 - Pandas
 - Matplotlib
 - Seaborn
+
+# Sales Analysis Project
+
+## Monthly Sales Trend
+![Monthly Sales](line_chart.png)
+
+## Category Comparison
+![Category Sales](bar_chart.png)
+
+## Sales Distribution
+![Sales Share](pie_chart.png)
